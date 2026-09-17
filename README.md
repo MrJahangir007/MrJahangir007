@@ -71,74 +71,42 @@
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
+<!-- ===== GITHUB STATS (RELIABLE VERSION) ===== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrJahangir007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrJahangir007&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="180em" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJahangir007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="150em" />
-</div>
-
 ---
 
-<!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrJahangir007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true" width="100%" />
-</div>
-
----
-
-<!-- ===== FEATURED PROJECTS ===== -->
+<!-- ===== FEATURED PROJECTS (TEXT ONLY - NEVER BREAKS) ===== -->
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/MrJahangir007/studentcaremb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrJahangir007&repo=studentcaremb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/MrJahangir007/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrJahangir007&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  </a>
-</div>
+- **[MechanicBD Sylhet](https://www.mechanicbdsyl.com/)** – Verified mechanic & technician service platform for home, office & commercial needs. _(Repo: [mechanicbd](https://github.com/MrJahangir007/mechanicbd))_
+- **[Student Care MB](https://github.com/MrJahangir007/studentcaremb)** – The main web platform for Student Care services.
+- **[Portfolio](https://github.com/MrJahangir007/portfolio)** – My personal portfolio website showcasing my work.
+- **[Jahangir IPTV](https://github.com/MrJahangir007/Jahangir-iptv)** – A custom IPTV project.
+- **[Student Care CTC TV](https://github.com/MrJahangir007/Student-Care-CTC-TV)** – SC_CTC_IP TV.
 
-<div align="center">
-  <a href="https://github.com/MrJahangir007/Jahangir-iptv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrJahangir007&repo=Jahangir-iptv&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/MrJahangir007/Student-Care-CTC-TV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrJahangir007&repo=Student-Care-CTC-TV&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  </a>
-</div>
-
----
-
-<!-- ===== CONNECT ===== -->
+<!-- ===== CONNECT WITH ME (FIXED LAYOUT) ===== -->
 ## 📫 Connect with Me
 
 <div align="center">
   <a href="mailto:mrjahangiralam007@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50px" alt="Email" />
-    <br/><strong>Email</strong>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40px" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://studentcaremb.blogspot.com/">
-    <img src="https://img.icons8.com/color/96/000000/blog.png" width="50px" alt="Blog" />
-    <br/><strong>Blog</strong>
+    <img src="https://img.icons8.com/color/48/000000/blog.png" width="40px" alt="Blog" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/iammrjahangir">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="LinkedIn" />
-    <br/><strong>LinkedIn</strong>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linktr.ee/iam.mrjahangir">
-    <img src="https://img.icons8.com/color/96/000000/linktree.png" width="50px" alt="Linktree" />
-    <br/><strong>Linktree</strong>
+    <img src="https://img.icons8.com/color/48/000000/linktree.png" width="40px" alt="Linktree" />
   </a>
 </div>
 
